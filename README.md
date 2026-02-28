@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UniTracker - Student Expense Tracking Application
 
 A full-stack web application for students to track expenses, set budgets, and manage savings goals.
@@ -191,3 +192,7 @@ ISC
 ## Support
 
 For issues or questions, please open an issue on GitHub.
+=======
+# Smart-expense-tracker-for-Uni-students
+Add budgets, expenses calculate the expenses and give warnings  when the expense exceeds the budget.   
+>>>>>>> 665847747cc69b1ec60144a423c4e898046f542a
