@@ -1,0 +1,25 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#1F2937"/>
+  
+  <!-- Wallet/Money icon -->
+  <g transform="translate(256, 256)">
+    <!-- Wallet body -->
+    <rect x="50" y="100" width="450" height="300" rx="30" fill="#10B981" stroke="#059669" stroke-width="8"/>
+    
+    <!-- Wallet flap -->
+    <path d="M 50 100 Q 50 50 100 50 L 400 50 Q 450 50 450 100" fill="#13B981" stroke="#059669" stroke-width="8"/>
+    
+    <!-- Coin slot -->
+    <circle cx="350" cy="200" r="50" fill="#FCD34D" stroke="#F59E0B" stroke-width="6"/>
+    
+    <!-- Dollar sign in coin -->
+    <text x="350" y="220" font-size="80" font-weight="bold" fill="#000" text-anchor="middle">$</text>
+    
+    <!-- Shine effect -->
+    <circle cx="280" cy="150" r="40" fill="#ffffff" opacity="0.2"/>
+  </g>
+  
+  <!-- Corner accent -->
+  <circle cx="950" cy="950" r="60" fill="#3B82F6" opacity="0.8"/>
+</svg>
